@@ -1,0 +1,12 @@
+reset button
+thumbnail
+back button 
+validation for from 
+sorting
+check boxes for search 
+restore and delete
+unlink () for image 
+Creation of thumbnails by using
+imagecreatetruecolor() and Imagecopyresampled() function of PHP.
+Use of JavaScript in various functions.
+pagenation 
